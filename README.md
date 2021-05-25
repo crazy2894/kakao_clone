@@ -1,4 +1,5 @@
 # kakao_clone for portpolio
 
-#First coding
-#With HTML & CSS
+# First coding
+
+# With HTML & CSS
